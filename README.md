@@ -1,0 +1,1 @@
+Sends email with Mailhog in a local environment with Lando.
