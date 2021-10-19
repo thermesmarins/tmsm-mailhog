@@ -1,21 +1,21 @@
 <?php
 /*
-	Plugin Name: TMSM Mailhog
-    Plugin URI:        https://www.github.com/thermesmarins/tmsm-mailhog/
-	Description: Sends email with Mailhog in a local environment with Lando.
-	Version: 1.0.0
-	Author: Nicolas Mollet
-    Author URI:        https://www.github.com/nicomollet/
-	Text Domain: tmsm-mailhog
-	Domain Path: /languages
-    License:           GNU General Public License v3.0
-    License URI:       http://www.gnu.org/licenses/gpl-3.0.html
-    Requires PHP:      7.3
-	WC requires at least: 5.0
-	WC tested up to: 5.6
-    Github Plugin URI: https://github.com/thermesmarins/tmsm-mailhog/
-    Github Branch:     master
-*/
+ *	Plugin Name: TMSM Mailhog
+ *  Plugin URI:  https://www.github.com/thermesmarins/tmsm-mailhog/
+ *	Description: Sends email with Mailhog in a local environment with Lando.
+ *	Version: 1.0.0
+ *	Author: Nicolas Mollet
+ *  Author URI: https://www.github.com/nicomollet/
+ *	Text Domain: tmsm-mailhog
+ *	Domain Path: /languages
+ *  License: GNU General Public License v3.0
+ *  License URI: http://www.gnu.org/licenses/gpl-3.0.html
+ *  Requires PHP: 7.3
+ *	WC requires at least: 5.0
+ *	WC tested up to: 5.6
+ *  Github Plugin URI: https://github.com/thermesmarins/tmsm-mailhog/
+ *  Github Branch: master
+ */
 
 
 /**
